@@ -12,33 +12,28 @@ redirect_from:
 ## Education
 ======
 * **Masters of Science - Data and Artificial Intelligence**  
-  Telecom Paris - ENSTA Paris, Palaiseau, France  
-  2024 - 2025  
+  Telecom Paris - ENSTA Paris, Palaiseau, France  2024 - 2025  
   Relevant Coursework: Deep Learning, Reinforcement Learning, Computer Vision, Large Language Models, Natural Language Processing, Bayesian Estimation in Graphs, General Purpose GPU Programming
 
 * **Engineering Diploma - Applied Mathematics and Computer Science**  
-  ENSTA Paris, Palaiseau, France  
-  2022 - 2025  
+  ENSTA Paris, Palaiseau, France  2022 - 2025  
   Relevant Coursework: Signal Processing, Machine Learning, Optimization, Markov Chains, Statistical Estimation, Time Series, Object Oriented Programming, Databases, Operations Research
 
 * **Preparatory Classes for Engineering Schools - MPSI MP**  
-  Saint Joseph University, Beirut, Lebanon  
-  2020 - 2022  
+  Saint Joseph University, Beirut, Lebanon  2020 - 2022  
   Relevant Coursework: Linear Algebra, Calculus, Statistical Physics, Quantum Physics, Thermodynamics
 
 ## Work Experience
 ======
 * **Data Scientist - Apprentice**  
-  Air Liquide, Paris, France  
-  2024 – 2025  
+  Air Liquide, Paris, France  2024 – 2025  
   - Built data solutions for industrial clients, including time series-based monitoring tools and dashboards.  
   - Optimized maintenance costs using machine learning for anomaly detection and predictive maintenance.  
   - Developed mathematical models for industrial process optimization using operations research.  
   - Implemented metrics and visualization techniques for proof of concept/value meetings with clients.
 
 * **Research Intern - Quantitative Physics**  
-  Applied Mathematics Unit - ENSTA Paris, Paris, France  
-  2023 - 2024  
+  Applied Mathematics Unit - ENSTA Paris, Paris, France  2023 - 2024  
   - Evaluated the performance of chaos quantifiers in dynamical systems, focusing on Fast Lyapunov Indicator.  
   - Built a trajectory simulator for automatic chaos quantification and mapping in chaotic systems.  
   - Tested the influence of hyperparameters for optimal high-performance computation results.  
